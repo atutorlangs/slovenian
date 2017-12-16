@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+			<!-- This is an ATutor language pack - http://www.atutor.ca-->
+
+			<!DOCTYPE language [
+			   <!ELEMENT atutor-version (#PCDATA)>
+			   <!ELEMENT code (#PCDATA)>
+			   <!ELEMENT charset (#PCDATA)>
+			   <!ELEMENT direction (#PCDATA)>
+			   <!ELEMENT reg-exp (#PCDATA)>
+			   <!ELEMENT native-name (#PCDATA)>
+			   <!ELEMENT english-name (#PCDATA)>
+			   <!ELEMENT status (#PCDATA)>
+
+			   <!ATTLIST language code ID #REQUIRED>
+			]><language code="sl">
+			<atutor-version>2.2.2</atutor-version>
+			<charset>utf-8</charset>
+			<direction>ltr</direction>
+			<reg-exp>sl|slovenian</reg-exp>
+			<native-name>Slovenian</native-name>
+			<english-name>Slovenian</english-name>
+			<status>1</status>
+		</language>
